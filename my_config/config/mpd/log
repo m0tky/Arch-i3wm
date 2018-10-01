@@ -1,0 +1,870 @@
+Jan 09 07:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 09 07:28 : exception: Failed to enable output "pulse audio" [pulse]
+Jan 09 07:28 : exception: nested: pa_context_connect() has failed: Connection refused
+Jan 09 07:28 : exception: Failed to enable output "pulse audio" [pulse]
+Jan 09 07:28 : exception: nested: pa_context_connect() has failed: Connection refused
+Jan 09 07:28 : exception: Failed to decode /home/shire/音乐/01 - Day By Day.flac
+Jan 09 07:28 : exception: nested: Failed to open /home/shire/音乐/01 - Day By Day.flac: No such file or directory
+Jan 09 07:28 : player: played "01 - Day By Day.flac"
+Jan 09 07:28 : client: [0] opened from 127.0.0.1:57680
+Jan 09 08:02 : client: [0] closed
+Jan 09 08:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 09 08:03 : client: [0] opened from 127.0.0.1:33682
+Jan 09 08:03 : client: [1] opened from 127.0.0.1:33684
+Jan 09 08:03 : update: removing Camila Cabello - Havana (Audio) ft. Young Thug.mp3
+Jan 09 08:03 : update: removing 02 - Holiday.flac
+Jan 09 08:03 : update: removing 01 - Day By Day.flac
+Jan 09 08:03 : update: removing Luis Fonsi _Feat Daddy Yankee_ - Despacito.flac
+Jan 09 08:03 : update: removing Charlie Puth - We Don_t Talk Anymore.flac
+Jan 09 08:03 : update: removing Luis Fonsi feat. Daddy Yankee - Despacito.flac
+Jan 09 08:03 : update: removing Charlie Puth - Attention.flac
+Jan 09 08:03 : update: removing 03.+Ma+boo.flac
+Jan 09 08:03 : update: removing bigbang——谎言.ape
+Jan 09 08:03 : update: removing 迷迭香——周杰伦.flac
+Jan 09 08:03 : update: removing 程响-江南夜色.flac
+Jan 09 08:03 : update: removing TZQEAFnOKjCAYA_6AShexrkgMns49.flac
+Jan 09 08:03 : update: removing oh.mp3
+Jan 09 08:03 : update: removing looc.flac
+Jan 09 08:03 : update: removing CharliePuth-How Long.mp3
+Jan 09 08:03 : update: updating /TWICE - LIKEY.flac
+Jan 09 08:03 : update: removing 美人鱼——林俊杰.flac
+Jan 09 08:03 : update: removing 五月天——离开地球表面.flac
+Jan 09 08:03 : update: removing 五月天——如烟.flac
+Jan 09 08:03 : update: removing 五月天——夜访吸血鬼.ape
+Jan 09 08:03 : update: removing 夜曲——周杰伦.ape
+Jan 09 08:03 : update: removing 夜的第七章——周杰伦.ape
+Jan 09 08:03 : update: removing 林佑嘉-热血无赖.mp3
+Jan 09 08:03 : update: removing AOA--짧은치마.flac
+Jan 09 08:03 : update: removing 08.결혼 하지마.flac
+Jan 09 08:03 : update: removing 07.아파.flac
+Jan 09 08:03 : update: removing 06.느낌 아니까.flac
+Jan 09 08:03 : update: removing 04.1977 기억 안나.flac
+Jan 09 08:03 : update: removing 03.나 어떡해.flac
+Jan 09 08:03 : update: removing 01.숨바꼭질-티아라-T-ara Winter.flac
+Jan 09 08:03 : update: removing 09.넘버나인 (No.9) (Club Ver.).flac
+Jan 09 08:03 : update: removing 02.한겨울의 숨바꼭질-티아라-T-ara Winter.flac
+Jan 09 08:03 : update: removing Sing+Me+To+Sleep.flac
+Jan 09 08:03 : update: removing Wanna Be.flac
+Jan 09 08:03 : update: removing LUV (Inst.).flac
+Jan 09 08:03 : update: removing cQ0DAFZfHOqAOVleAaQUjJRmchE42.flac
+Jan 09 08:03 : update: removing Mr.Taxi.flac
+Jan 09 08:03 : update: removing MrTaxi.ape
+Jan 09 08:03 : update: removing 02.+우리+사랑했잖아.flac
+Jan 09 08:03 : update: removing Échame La Culpa.mp3
+Jan 09 08:03 : update: removing drama.flac
+Jan 09 08:03 : update: removing K.A.R.D - Don't Recall.flac
+Jan 09 08:03 : update: removing 01.+Roly-Poly+In+코파카바나.flac
+Jan 09 08:03 : update: removing 05 - 사랑놀이.flac
+Jan 09 08:03 : update: removing 04 - HUE.flac
+Jan 09 08:03 : update: removing 03 - 떠나지마.flac
+Jan 09 08:03 : update: updating /LUV.flac
+Jan 09 08:03 : update: added /02. NoNoNo.flac
+Jan 09 08:03 : update: added /02. 마리오네트 (Marionette).flac
+Jan 09 08:03 : update: added /day by day.flac
+Jan 09 08:03 : update: updating /05.넘버나인 (No.9).flac
+Jan 09 08:03 : exception: Failed to open /home/shire/.config/mpd/playlists: No such file or directory
+Jan 09 08:04 : client: [1] closed
+Jan 09 08:07 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 09 16:11 : client: [2] opened from 127.0.0.1:35140
+Jan 09 16:11 : client: [2] closed
+Jan 09 16:15 : player: played "day by day.flac"
+Jan 09 16:18 : client: [3] opened from 127.0.0.1:36102
+Jan 09 16:18 : client: [3] closed
+Jan 09 16:20 : client: [0] closed
+Jan 09 16:21 : client: [4] opened from 127.0.0.1:36516
+Jan 09 16:22 : player: played "LUV.flac"
+Jan 09 16:22 : client: [5] opened from 127.0.0.1:37130
+Jan 09 16:22 : client: [5] closed
+Jan 09 16:34 : client: [6] opened from 127.0.0.1:40518
+Jan 09 16:34 : client: [6] closed
+Jan 09 17:02 : client: [4] closed
+Jan 09 17:02 : client: [7] opened from 127.0.0.1:51040
+Jan 09 17:30 : client: [8] opened from 127.0.0.1:54820
+Jan 09 17:30 : update: added /01 - Day By Day.flac
+Jan 09 17:30 : update: removing day by day.flac
+Jan 09 17:30 : exception: Failed to open /home/shire/.config/mpd/playlists: No such file or directory
+Jan 09 17:30 : update: added /MrTaxi.ape
+Jan 09 17:30 : exception: Failed to open /home/shire/.config/mpd/playlists: No such file or directory
+Jan 09 17:31 : client: [8] closed
+Jan 09 17:32 : player: played "01 - Day By Day.flac"
+Jan 09 17:36 : player: played "01 - Day By Day.flac"
+Jan 09 17:38 : client: [9] opened from 127.0.0.1:58370
+Jan 09 17:38 : client: [9] closed
+Jan 09 17:38 : player: played "01 - Day By Day.flac"
+Jan 09 17:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 09 17:40 : client: [0] opened from 127.0.0.1:59448
+Jan 09 17:46 : client: [1] opened from 127.0.0.1:59726
+Jan 09 17:46 : client: [1] closed
+Jan 09 17:46 : client: [2] opened from 127.0.0.1:59744
+Jan 09 17:46 : client: [2] closed
+Jan 09 17:46 : client: [3] opened from 127.0.0.1:59746
+Jan 09 17:46 : client: [3] closed
+Jan 09 17:46 : client: [4] opened from 127.0.0.1:59786
+Jan 09 17:46 : client: [4] closed
+Jan 09 17:46 : client: [5] opened from 127.0.0.1:59788
+Jan 09 17:46 : client: [5] closed
+Jan 09 17:50 : player: played "05.넘버나인 (No.9).flac"
+Jan 09 17:54 : player: played "05.넘버나인 (No.9).flac"
+Jan 09 17:58 : player: played "05.넘버나인 (No.9).flac"
+Jan 09 18:02 : player: played "05.넘버나인 (No.9).flac"
+Jan 09 18:05 : player: played "05.넘버나인 (No.9).flac"
+Jan 09 18:09 : player: played "05.넘버나인 (No.9).flac"
+Jan 09 18:10 : client: [0] closed
+Jan 09 18:10 : client: [6] opened from 127.0.0.1:40026
+Jan 09 18:11 : client: [6] closed
+Jan 09 18:11 : client: [7] opened from 127.0.0.1:40054
+Jan 09 18:13 : player: played "05.넘버나인 (No.9).flac"
+Jan 09 18:14 : client: [8] opened from 127.0.0.1:40874
+Jan 09 18:14 : client: [8] closed
+Jan 09 18:14 : client: [9] opened from 127.0.0.1:40880
+Jan 09 18:14 : client: [9] closed
+Jan 09 18:17 : client: [10] opened from 127.0.0.1:41388
+Jan 09 18:17 : client: [10] closed
+Jan 09 18:46 : client: [11] opened from 127.0.0.1:47028
+Jan 09 18:46 : client: [11] closed
+Jan 09 18:47 : client: [12] opened from 127.0.0.1:47250
+Jan 09 18:47 : client: [12] closed
+Jan 09 18:51 : player: played "01 - Day By Day.flac"
+Jan 09 18:54 : client: [13] opened from 127.0.0.1:48434
+Jan 09 18:54 : client: [13] closed
+Jan 09 18:54 : client: [14] opened from 127.0.0.1:48436
+Jan 09 18:54 : client: [14] closed
+Jan 09 18:57 : client: [15] opened from 127.0.0.1:48864
+Jan 09 18:57 : client: [15] closed
+Jan 09 18:57 : client: [16] opened from 127.0.0.1:48866
+Jan 09 18:57 : client: [16] closed
+Jan 09 18:57 : client: [17] opened from 127.0.0.1:48870
+Jan 09 18:57 : client: [17] closed
+Jan 09 18:57 : client: [18] opened from 127.0.0.1:48874
+Jan 09 18:57 : client: [18] closed
+Jan 09 18:57 : client: [19] opened from 127.0.0.1:48876
+Jan 09 18:57 : client: [19] closed
+Jan 09 18:57 : client: [20] opened from 127.0.0.1:48878
+Jan 09 18:57 : client: [20] closed
+Jan 09 18:57 : client: [21] opened from 127.0.0.1:48882
+Jan 09 18:57 : exception: Failed to open /home/shire/.config/mpd/playlists: No such file or directory
+Jan 09 18:57 : client: [21] closed
+Jan 09 18:59 : client: [22] opened from 127.0.0.1:49250
+Jan 09 19:00 : player: played "MrTaxi.ape"
+Jan 09 19:02 : client: [23] opened from 127.0.0.1:49480
+Jan 09 19:02 : client: [23] closed
+Jan 09 19:02 : client: [24] opened from 127.0.0.1:49484
+Jan 09 19:02 : client: [24] closed
+Jan 09 19:02 : client: [25] opened from 127.0.0.1:49486
+Jan 09 19:02 : client: [25] closed
+Jan 09 19:02 : client: [26] opened from 127.0.0.1:49490
+Jan 09 19:02 : client: [26] closed
+Jan 09 19:02 : client: [27] opened from 127.0.0.1:49494
+Jan 09 19:02 : client: [27] closed
+Jan 09 19:04 : client: [22] closed
+Jan 09 19:05 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 09 19:09 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 09 19:10 : client: [28] opened from 127.0.0.1:50880
+Jan 09 19:12 : client: [28] closed
+Jan 09 19:12 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 09 19:14 : client: [29] opened from 127.0.0.1:51560
+Jan 09 19:16 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 09 19:17 : client: [30] opened from 127.0.0.1:52272
+Jan 09 19:17 : client: [30] closed
+Jan 09 19:19 : client: [29] closed
+Jan 09 19:19 : client: [31] opened from 127.0.0.1:52862
+Jan 09 19:19 : client: [31] closed
+Jan 09 19:20 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 10 11:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 10 11:05 : client: [0] opened from 127.0.0.1:52958
+Jan 10 11:06 : client: [1] opened from 127.0.0.1:52960
+Jan 10 11:06 : client: [1] closed
+Jan 10 11:07 : client: [2] opened from 127.0.0.1:52962
+Jan 10 11:07 : client: [2] closed
+Jan 10 12:26 : client: [3] opened from 127.0.0.1:45212
+Jan 10 12:26 : client: [3] closed
+Jan 10 12:26 : client: [4] opened from 127.0.0.1:45216
+Jan 10 12:26 : client: [4] closed
+Jan 10 12:26 : client: [5] opened from 127.0.0.1:45250
+Jan 10 12:27 : client: [5] closed
+Jan 10 12:27 : client: [6] opened from 127.0.0.1:45322
+Jan 10 12:27 : client: [6] closed
+Jan 10 12:28 : client: [7] opened from 127.0.0.1:45378
+Jan 10 12:28 : exception: Failed to open /home/shire/.config/mpd/playlists: No such file or directory
+Jan 10 12:28 : client: [7] closed
+Jan 10 12:29 : client: [8] opened from 127.0.0.1:45600
+Jan 10 12:29 : client: [8] closed
+Jan 10 15:11 : client: [0] closed
+Jan 10 15:11 : client: [9] opened from 127.0.0.1:54686
+Jan 10 16:55 : client: [10] opened from 127.0.0.1:37848
+Jan 10 16:55 : client: [10] closed
+Jan 10 16:57 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 10 17:01 : client: [11] opened from 127.0.0.1:38438
+Jan 10 17:01 : client: [11] closed
+Jan 10 18:01 : client: [12] opened from 127.0.0.1:52496
+Jan 10 18:01 : client: [12] closed
+Jan 10 18:02 : client: [13] opened from 127.0.0.1:52976
+Jan 10 18:02 : client: [13] closed
+Jan 10 18:04 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 10 18:08 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 10 18:09 : client: [14] opened from 127.0.0.1:54688
+Jan 10 18:09 : client: [14] closed
+Jan 10 18:20 : client: [15] opened from 127.0.0.1:57498
+Jan 10 18:20 : client: [15] closed
+Jan 10 18:22 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 10 18:24 : client: [16] opened from 127.0.0.1:57836
+Jan 10 18:24 : client: [16] closed
+Jan 10 18:25 : client: [9] closed
+Jan 10 18:30 : client: [17] opened from 127.0.0.1:58082
+Jan 10 18:30 : client: [17] closed
+Jan 10 18:30 : client: [18] opened from 127.0.0.1:58084
+Jan 10 18:30 : client: [18] closed
+Jan 10 18:30 : client: [19] opened from 127.0.0.1:58086
+Jan 10 18:30 : client: [19] closed
+Jan 10 18:30 : client: [20] opened from 127.0.0.1:58088
+Jan 10 18:30 : client: [20] closed
+Jan 10 18:30 : client: [21] opened from 127.0.0.1:58090
+Jan 10 18:30 : client: [21] closed
+Jan 10 18:30 : client: [22] opened from 127.0.0.1:58092
+Jan 10 18:30 : client: [22] closed
+Jan 10 18:30 : client: [23] opened from 127.0.0.1:58094
+Jan 10 18:30 : client: [23] closed
+Jan 10 18:30 : client: [24] opened from 127.0.0.1:58096
+Jan 10 18:30 : client: [24] closed
+Jan 10 18:30 : client: [25] opened from 127.0.0.1:58098
+Jan 10 18:30 : client: [25] closed
+Jan 10 18:30 : client: [26] opened from 127.0.0.1:58100
+Jan 10 18:30 : client: [26] closed
+Jan 10 18:30 : client: [27] opened from 127.0.0.1:58102
+Jan 10 18:30 : client: [27] closed
+Jan 10 18:30 : client: [28] opened from 127.0.0.1:58104
+Jan 10 18:30 : client: [28] closed
+Jan 10 18:30 : client: [29] opened from 127.0.0.1:58106
+Jan 10 18:30 : client: [29] closed
+Jan 10 18:30 : client: [30] opened from 127.0.0.1:58108
+Jan 10 18:30 : client: [30] closed
+Jan 10 18:30 : client: [31] opened from 127.0.0.1:58110
+Jan 10 18:30 : client: [31] closed
+Jan 10 18:30 : client: [32] opened from 127.0.0.1:58112
+Jan 10 18:30 : client: [32] closed
+Jan 10 18:30 : client: [33] opened from 127.0.0.1:58114
+Jan 10 18:30 : client: [33] closed
+Jan 10 18:30 : client: [34] opened from 127.0.0.1:58116
+Jan 10 18:30 : client: [34] closed
+Jan 10 18:30 : client: [35] opened from 127.0.0.1:58118
+Jan 10 18:30 : client: [35] closed
+Jan 10 18:31 : client: [36] opened from 127.0.0.1:58120
+Jan 10 18:31 : client: [36] closed
+Jan 10 18:31 : client: [37] opened from 127.0.0.1:58122
+Jan 10 18:31 : client: [37] closed
+Jan 10 18:31 : client: [38] opened from 127.0.0.1:58124
+Jan 10 18:31 : client: [38] closed
+Jan 10 18:31 : client: [39] opened from 127.0.0.1:58126
+Jan 10 18:31 : client: [39] closed
+Jan 10 18:31 : client: [40] opened from 127.0.0.1:58128
+Jan 10 18:31 : client: [40] closed
+Jan 10 18:31 : client: [41] opened from 127.0.0.1:58130
+Jan 10 18:31 : client: [41] closed
+Jan 10 18:31 : client: [42] opened from 127.0.0.1:58132
+Jan 10 18:31 : client: [42] closed
+Jan 10 18:31 : client: [43] opened from 127.0.0.1:58134
+Jan 10 18:31 : client: [43] closed
+Jan 10 18:31 : client: [44] opened from 127.0.0.1:58136
+Jan 10 18:31 : client: [44] closed
+Jan 10 18:31 : client: [45] opened from 127.0.0.1:58138
+Jan 10 18:31 : client: [45] closed
+Jan 10 18:31 : client: [46] opened from 127.0.0.1:58140
+Jan 10 18:31 : client: [46] closed
+Jan 10 18:31 : client: [47] opened from 127.0.0.1:58142
+Jan 10 18:31 : client: [47] closed
+Jan 10 18:31 : client: [48] opened from 127.0.0.1:58144
+Jan 10 18:31 : client: [48] closed
+Jan 10 18:31 : client: [49] opened from 127.0.0.1:58146
+Jan 10 18:31 : client: [49] closed
+Jan 10 18:31 : client: [50] opened from 127.0.0.1:58148
+Jan 10 18:31 : client: [50] closed
+Jan 10 18:31 : client: [51] opened from 127.0.0.1:58150
+Jan 10 18:31 : client: [51] closed
+Jan 10 18:31 : client: [52] opened from 127.0.0.1:58152
+Jan 10 18:31 : client: [52] closed
+Jan 10 18:31 : client: [53] opened from 127.0.0.1:58154
+Jan 10 18:31 : client: [53] closed
+Jan 10 18:31 : client: [54] opened from 127.0.0.1:58156
+Jan 10 18:31 : client: [54] closed
+Jan 10 18:31 : client: [55] opened from 127.0.0.1:58158
+Jan 10 18:31 : client: [55] closed
+Jan 10 18:31 : client: [56] opened from 127.0.0.1:58160
+Jan 10 18:31 : client: [56] closed
+Jan 10 18:31 : client: [57] opened from 127.0.0.1:58162
+Jan 10 18:31 : client: [57] closed
+Jan 10 18:31 : client: [58] opened from 127.0.0.1:58164
+Jan 10 18:31 : client: [58] closed
+Jan 10 18:31 : client: [59] opened from 127.0.0.1:58166
+Jan 10 18:31 : client: [59] closed
+Jan 10 18:31 : client: [60] opened from 127.0.0.1:58168
+Jan 10 18:31 : client: [60] closed
+Jan 10 18:31 : client: [61] opened from 127.0.0.1:58170
+Jan 10 18:31 : client: [61] closed
+Jan 10 18:31 : client: [62] opened from 127.0.0.1:58172
+Jan 10 18:31 : client: [62] closed
+Jan 10 18:31 : client: [63] opened from 127.0.0.1:58174
+Jan 10 18:31 : client: [63] closed
+Jan 10 18:31 : client: [64] opened from 127.0.0.1:58176
+Jan 10 18:31 : client: [64] closed
+Jan 10 18:31 : client: [65] opened from 127.0.0.1:58178
+Jan 10 18:31 : client: [65] closed
+Jan 10 18:31 : client: [66] opened from 127.0.0.1:58180
+Jan 10 18:31 : client: [66] closed
+Jan 10 18:31 : client: [67] opened from 127.0.0.1:58182
+Jan 10 18:31 : client: [67] closed
+Jan 10 18:31 : client: [68] opened from 127.0.0.1:58184
+Jan 10 18:31 : client: [68] closed
+Jan 10 18:31 : client: [69] opened from 127.0.0.1:58186
+Jan 10 18:31 : client: [69] closed
+Jan 10 18:31 : client: [70] opened from 127.0.0.1:58188
+Jan 10 18:31 : client: [70] closed
+Jan 10 18:31 : client: [71] opened from 127.0.0.1:58190
+Jan 10 18:31 : client: [71] closed
+Jan 10 18:31 : client: [72] opened from 127.0.0.1:58192
+Jan 10 18:31 : client: [72] closed
+Jan 10 18:31 : client: [73] opened from 127.0.0.1:58194
+Jan 10 18:31 : client: [73] closed
+Jan 10 18:31 : client: [74] opened from 127.0.0.1:58196
+Jan 10 18:31 : client: [74] closed
+Jan 10 18:31 : client: [75] opened from 127.0.0.1:58198
+Jan 10 18:31 : client: [75] closed
+Jan 10 18:31 : client: [76] opened from 127.0.0.1:58200
+Jan 10 18:31 : client: [76] closed
+Jan 10 18:31 : client: [77] opened from 127.0.0.1:58202
+Jan 10 18:31 : client: [77] closed
+Jan 10 18:31 : client: [78] opened from 127.0.0.1:58204
+Jan 10 18:31 : client: [78] closed
+Jan 10 18:31 : client: [79] opened from 127.0.0.1:58206
+Jan 10 18:31 : client: [79] closed
+Jan 10 18:31 : client: [80] opened from 127.0.0.1:58208
+Jan 10 18:31 : client: [80] closed
+Jan 10 18:31 : client: [81] opened from 127.0.0.1:58210
+Jan 10 18:31 : client: [81] closed
+Jan 10 18:31 : client: [82] opened from 127.0.0.1:58212
+Jan 10 18:31 : client: [82] closed
+Jan 10 18:31 : client: [83] opened from 127.0.0.1:58214
+Jan 10 18:31 : client: [83] closed
+Jan 10 18:31 : client: [84] opened from 127.0.0.1:58216
+Jan 10 18:31 : client: [84] closed
+Jan 10 18:31 : client: [85] opened from 127.0.0.1:58218
+Jan 10 18:31 : client: [85] closed
+Jan 10 18:31 : client: [86] opened from 127.0.0.1:58220
+Jan 10 18:31 : client: [86] closed
+Jan 10 18:31 : client: [87] opened from 127.0.0.1:58222
+Jan 10 18:31 : client: [87] closed
+Jan 10 18:31 : client: [88] opened from 127.0.0.1:58224
+Jan 10 18:31 : client: [88] closed
+Jan 10 18:31 : client: [89] opened from 127.0.0.1:58226
+Jan 10 18:31 : client: [89] closed
+Jan 10 18:32 : client: [90] opened from 127.0.0.1:58228
+Jan 10 18:32 : client: [90] closed
+Jan 10 18:32 : client: [91] opened from 127.0.0.1:58230
+Jan 10 18:32 : client: [91] closed
+Jan 10 18:32 : client: [92] opened from 127.0.0.1:58232
+Jan 10 18:32 : client: [92] closed
+Jan 10 18:32 : client: [93] opened from 127.0.0.1:58234
+Jan 10 18:32 : client: [93] closed
+Jan 10 18:32 : client: [94] opened from 127.0.0.1:58236
+Jan 10 18:32 : client: [94] closed
+Jan 10 18:32 : client: [95] opened from 127.0.0.1:58238
+Jan 10 18:32 : client: [95] closed
+Jan 10 18:32 : client: [96] opened from 127.0.0.1:58240
+Jan 10 18:32 : client: [96] closed
+Jan 10 18:32 : client: [97] opened from 127.0.0.1:58242
+Jan 10 18:32 : client: [97] closed
+Jan 10 18:32 : client: [98] opened from 127.0.0.1:58244
+Jan 10 18:32 : client: [98] closed
+Jan 10 18:32 : client: [99] opened from 127.0.0.1:58246
+Jan 10 18:32 : client: [99] closed
+Jan 10 18:32 : client: [100] opened from 127.0.0.1:58248
+Jan 10 18:32 : client: [100] closed
+Jan 10 18:32 : client: [101] opened from 127.0.0.1:58250
+Jan 10 18:32 : client: [101] closed
+Jan 10 18:32 : client: [102] opened from 127.0.0.1:58252
+Jan 10 18:32 : client: [102] closed
+Jan 10 18:32 : client: [103] opened from 127.0.0.1:58254
+Jan 10 18:32 : client: [103] closed
+Jan 10 18:32 : client: [104] opened from 127.0.0.1:58256
+Jan 10 18:32 : client: [104] closed
+Jan 10 18:32 : client: [105] opened from 127.0.0.1:58258
+Jan 10 18:32 : client: [105] closed
+Jan 10 18:32 : client: [106] opened from 127.0.0.1:58260
+Jan 10 18:32 : client: [106] closed
+Jan 10 18:32 : client: [107] opened from 127.0.0.1:58262
+Jan 10 18:32 : client: [107] closed
+Jan 10 18:32 : client: [108] opened from 127.0.0.1:58264
+Jan 10 18:32 : client: [108] closed
+Jan 10 18:32 : client: [109] opened from 127.0.0.1:58266
+Jan 10 18:32 : client: [109] closed
+Jan 10 18:32 : client: [110] opened from 127.0.0.1:58268
+Jan 10 18:32 : client: [110] closed
+Jan 10 18:32 : client: [111] opened from 127.0.0.1:58270
+Jan 10 18:32 : client: [111] closed
+Jan 10 18:32 : client: [112] opened from 127.0.0.1:58272
+Jan 10 18:32 : client: [112] closed
+Jan 10 18:32 : client: [113] opened from 127.0.0.1:58274
+Jan 10 18:32 : client: [113] closed
+Jan 10 18:32 : client: [114] opened from 127.0.0.1:58276
+Jan 10 18:32 : client: [114] closed
+Jan 10 18:32 : client: [115] opened from 127.0.0.1:58278
+Jan 10 18:32 : client: [115] closed
+Jan 10 18:32 : client: [116] opened from 127.0.0.1:58280
+Jan 10 18:32 : client: [116] closed
+Jan 10 18:32 : client: [117] opened from 127.0.0.1:58282
+Jan 10 18:32 : client: [117] closed
+Jan 10 18:32 : client: [118] opened from 127.0.0.1:58284
+Jan 10 18:32 : client: [118] closed
+Jan 10 18:32 : client: [119] opened from 127.0.0.1:58286
+Jan 10 18:32 : client: [119] closed
+Jan 10 18:32 : client: [120] opened from 127.0.0.1:58288
+Jan 10 18:32 : client: [120] closed
+Jan 10 18:32 : client: [121] opened from 127.0.0.1:58290
+Jan 10 18:32 : client: [121] closed
+Jan 10 18:32 : client: [122] opened from 127.0.0.1:58292
+Jan 10 18:32 : client: [122] closed
+Jan 10 18:32 : client: [123] opened from 127.0.0.1:58294
+Jan 10 18:32 : client: [123] closed
+Jan 10 18:32 : client: [124] opened from 127.0.0.1:58296
+Jan 10 18:32 : client: [124] closed
+Jan 10 18:32 : client: [125] opened from 127.0.0.1:58298
+Jan 10 18:32 : client: [125] closed
+Jan 10 18:32 : client: [126] opened from 127.0.0.1:58300
+Jan 10 18:32 : client: [126] closed
+Jan 10 18:32 : client: [127] opened from 127.0.0.1:58302
+Jan 10 18:32 : client: [127] closed
+Jan 10 18:32 : client: [128] opened from 127.0.0.1:58304
+Jan 10 18:32 : client: [128] closed
+Jan 10 18:32 : client: [129] opened from 127.0.0.1:58306
+Jan 10 18:32 : client: [129] closed
+Jan 10 18:32 : client: [130] opened from 127.0.0.1:58308
+Jan 10 18:32 : client: [130] closed
+Jan 10 18:32 : client: [131] opened from 127.0.0.1:58310
+Jan 10 18:32 : client: [131] closed
+Jan 10 18:32 : client: [132] opened from 127.0.0.1:58312
+Jan 10 18:32 : client: [132] closed
+Jan 10 18:32 : client: [133] opened from 127.0.0.1:58314
+Jan 10 18:32 : client: [133] closed
+Jan 10 18:32 : client: [134] opened from 127.0.0.1:58316
+Jan 10 18:32 : client: [134] closed
+Jan 10 18:32 : client: [135] opened from 127.0.0.1:58318
+Jan 10 18:32 : client: [135] closed
+Jan 10 18:32 : client: [136] opened from 127.0.0.1:58320
+Jan 10 18:32 : client: [136] closed
+Jan 10 18:32 : client: [137] opened from 127.0.0.1:58322
+Jan 10 18:32 : client: [137] closed
+Jan 10 18:32 : client: [138] opened from 127.0.0.1:58324
+Jan 10 18:32 : client: [138] closed
+Jan 10 18:32 : client: [139] opened from 127.0.0.1:58326
+Jan 10 18:32 : client: [139] closed
+Jan 10 18:32 : client: [140] opened from 127.0.0.1:58328
+Jan 10 18:32 : client: [140] closed
+Jan 10 18:32 : client: [141] opened from 127.0.0.1:58330
+Jan 10 18:32 : client: [141] closed
+Jan 10 18:32 : client: [142] opened from 127.0.0.1:58332
+Jan 10 18:32 : client: [142] closed
+Jan 10 18:32 : client: [143] opened from 127.0.0.1:58334
+Jan 10 18:32 : client: [143] closed
+Jan 10 18:32 : client: [144] opened from 127.0.0.1:58336
+Jan 10 18:32 : client: [144] closed
+Jan 10 18:32 : client: [145] opened from 127.0.0.1:58338
+Jan 10 18:32 : client: [145] closed
+Jan 10 18:32 : client: [146] opened from 127.0.0.1:58340
+Jan 10 18:32 : client: [146] closed
+Jan 10 18:33 : client: [147] opened from 127.0.0.1:58342
+Jan 10 18:33 : client: [147] closed
+Jan 10 18:33 : client: [148] opened from 127.0.0.1:58344
+Jan 10 18:33 : client: [148] closed
+Jan 10 18:33 : client: [149] opened from 127.0.0.1:58346
+Jan 10 18:33 : client: [149] closed
+Jan 10 18:33 : client: [150] opened from 127.0.0.1:58348
+Jan 10 18:33 : client: [150] closed
+Jan 10 18:33 : client: [151] opened from 127.0.0.1:58350
+Jan 10 18:33 : client: [151] closed
+Jan 10 18:33 : client: [152] opened from 127.0.0.1:58352
+Jan 10 18:33 : client: [152] closed
+Jan 10 18:33 : client: [153] opened from 127.0.0.1:58354
+Jan 10 18:33 : client: [153] closed
+Jan 10 18:33 : client: [154] opened from 127.0.0.1:58356
+Jan 10 18:33 : client: [154] closed
+Jan 10 18:33 : client: [155] opened from 127.0.0.1:58358
+Jan 10 18:33 : client: [155] closed
+Jan 10 18:33 : client: [156] opened from 127.0.0.1:58360
+Jan 10 18:33 : client: [156] closed
+Jan 10 18:33 : client: [157] opened from 127.0.0.1:58362
+Jan 10 18:33 : client: [157] closed
+Jan 10 18:33 : client: [158] opened from 127.0.0.1:58364
+Jan 10 18:33 : client: [158] closed
+Jan 10 18:33 : client: [159] opened from 127.0.0.1:58366
+Jan 10 18:33 : client: [159] closed
+Jan 10 18:33 : client: [160] opened from 127.0.0.1:58368
+Jan 10 18:33 : client: [160] closed
+Jan 10 18:33 : client: [161] opened from 127.0.0.1:58370
+Jan 10 18:33 : client: [161] closed
+Jan 10 18:33 : client: [162] opened from 127.0.0.1:58372
+Jan 10 18:33 : client: [162] closed
+Jan 10 18:33 : client: [163] opened from 127.0.0.1:58374
+Jan 10 18:33 : client: [163] closed
+Jan 10 18:33 : client: [164] opened from 127.0.0.1:58376
+Jan 10 18:33 : client: [164] closed
+Jan 10 18:33 : client: [165] opened from 127.0.0.1:58378
+Jan 10 18:33 : client: [165] closed
+Jan 10 18:33 : client: [166] opened from 127.0.0.1:58380
+Jan 10 18:33 : client: [166] closed
+Jan 10 18:33 : client: [167] opened from 127.0.0.1:58382
+Jan 10 18:33 : client: [167] closed
+Jan 10 18:33 : client: [168] opened from 127.0.0.1:58384
+Jan 10 18:33 : client: [168] closed
+Jan 10 18:33 : client: [169] opened from 127.0.0.1:58386
+Jan 10 18:33 : client: [169] closed
+Jan 10 18:33 : client: [170] opened from 127.0.0.1:58388
+Jan 10 18:33 : client: [170] closed
+Jan 10 18:33 : client: [171] opened from 127.0.0.1:58390
+Jan 10 18:33 : client: [171] closed
+Jan 10 18:33 : client: [172] opened from 127.0.0.1:58392
+Jan 10 18:33 : client: [172] closed
+Jan 10 18:33 : client: [173] opened from 127.0.0.1:58394
+Jan 10 18:33 : client: [173] closed
+Jan 10 18:33 : client: [174] opened from 127.0.0.1:58396
+Jan 10 18:33 : client: [174] closed
+Jan 10 18:33 : client: [175] opened from 127.0.0.1:58398
+Jan 10 18:33 : client: [175] closed
+Jan 10 18:33 : client: [176] opened from 127.0.0.1:58400
+Jan 10 18:33 : client: [176] closed
+Jan 10 18:33 : client: [177] opened from 127.0.0.1:58402
+Jan 10 18:33 : client: [177] closed
+Jan 10 18:33 : client: [178] opened from 127.0.0.1:58404
+Jan 10 18:33 : client: [178] closed
+Jan 10 18:33 : client: [179] opened from 127.0.0.1:58406
+Jan 10 18:33 : client: [179] closed
+Jan 10 18:33 : client: [180] opened from 127.0.0.1:58408
+Jan 10 18:33 : client: [180] closed
+Jan 10 18:33 : client: [181] opened from 127.0.0.1:58416
+Jan 10 18:33 : client: [181] closed
+Jan 10 18:33 : client: [182] opened from 127.0.0.1:58418
+Jan 10 18:33 : client: [182] closed
+Jan 10 18:33 : client: [183] opened from 127.0.0.1:58420
+Jan 10 18:33 : client: [183] closed
+Jan 10 18:33 : client: [184] opened from 127.0.0.1:58422
+Jan 10 18:33 : client: [184] closed
+Jan 10 18:33 : client: [185] opened from 127.0.0.1:58424
+Jan 10 18:33 : client: [185] closed
+Jan 10 18:33 : client: [186] opened from 127.0.0.1:58426
+Jan 10 18:33 : client: [186] closed
+Jan 10 18:33 : client: [187] opened from 127.0.0.1:58428
+Jan 10 18:33 : client: [187] closed
+Jan 10 18:33 : client: [188] opened from 127.0.0.1:58430
+Jan 10 18:33 : client: [188] closed
+Jan 10 18:33 : client: [189] opened from 127.0.0.1:58432
+Jan 10 18:33 : client: [189] closed
+Jan 10 18:33 : client: [190] opened from 127.0.0.1:58434
+Jan 10 18:33 : client: [190] closed
+Jan 10 18:33 : client: [191] opened from 127.0.0.1:58436
+Jan 10 18:33 : client: [191] closed
+Jan 10 18:33 : client: [192] opened from 127.0.0.1:58438
+Jan 10 18:33 : client: [192] closed
+Jan 10 18:33 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 10 18:33 : client: [193] opened from 127.0.0.1:58440
+Jan 10 18:33 : client: [193] closed
+Jan 10 18:33 : client: [194] opened from 127.0.0.1:58442
+Jan 10 18:33 : client: [194] closed
+Jan 10 18:33 : client: [195] opened from 127.0.0.1:58444
+Jan 10 18:33 : client: [195] closed
+Jan 10 18:33 : client: [196] opened from 127.0.0.1:58446
+Jan 10 18:33 : client: [196] closed
+Jan 10 18:33 : client: [197] opened from 127.0.0.1:58448
+Jan 10 18:33 : client: [197] closed
+Jan 10 18:33 : client: [198] opened from 127.0.0.1:58450
+Jan 10 18:33 : client: [198] closed
+Jan 10 18:33 : client: [199] opened from 127.0.0.1:58452
+Jan 10 18:33 : client: [199] closed
+Jan 10 18:33 : client: [200] opened from 127.0.0.1:58454
+Jan 10 18:33 : client: [200] closed
+Jan 10 18:33 : client: [201] opened from 127.0.0.1:58456
+Jan 10 18:33 : client: [201] closed
+Jan 10 18:33 : client: [202] opened from 127.0.0.1:58458
+Jan 10 18:33 : client: [202] closed
+Jan 10 18:33 : client: [203] opened from 127.0.0.1:58460
+Jan 10 18:33 : client: [203] closed
+Jan 10 18:34 : client: [204] opened from 127.0.0.1:58462
+Jan 10 18:34 : client: [204] closed
+Jan 10 18:34 : client: [205] opened from 127.0.0.1:58464
+Jan 10 18:34 : client: [205] closed
+Jan 10 18:34 : client: [206] opened from 127.0.0.1:58466
+Jan 10 18:34 : client: [206] closed
+Jan 10 18:34 : client: [207] opened from 127.0.0.1:58468
+Jan 10 18:34 : client: [207] closed
+Jan 10 18:34 : client: [208] opened from 127.0.0.1:58470
+Jan 10 18:34 : client: [208] closed
+Jan 10 18:34 : client: [209] opened from 127.0.0.1:58472
+Jan 10 18:34 : client: [209] closed
+Jan 10 18:34 : client: [210] opened from 127.0.0.1:58474
+Jan 10 18:34 : client: [210] closed
+Jan 10 18:34 : client: [211] opened from 127.0.0.1:58476
+Jan 10 18:34 : client: [211] closed
+Jan 10 18:34 : client: [212] opened from 127.0.0.1:58478
+Jan 10 18:34 : client: [212] closed
+Jan 10 18:34 : client: [213] opened from 127.0.0.1:58480
+Jan 10 18:34 : client: [213] closed
+Jan 10 18:34 : client: [214] opened from 127.0.0.1:58482
+Jan 10 18:34 : client: [214] closed
+Jan 10 18:34 : client: [215] opened from 127.0.0.1:58484
+Jan 10 18:34 : client: [215] closed
+Jan 10 18:34 : client: [216] opened from 127.0.0.1:58486
+Jan 10 18:34 : client: [216] closed
+Jan 10 18:34 : client: [217] opened from 127.0.0.1:58488
+Jan 10 18:34 : client: [217] closed
+Jan 10 18:34 : client: [218] opened from 127.0.0.1:58490
+Jan 10 18:34 : client: [218] closed
+Jan 10 18:34 : client: [219] opened from 127.0.0.1:58492
+Jan 10 18:34 : client: [219] closed
+Jan 10 18:34 : client: [220] opened from 127.0.0.1:58494
+Jan 10 18:34 : client: [220] closed
+Jan 10 18:34 : client: [221] opened from 127.0.0.1:58496
+Jan 10 18:34 : client: [221] closed
+Jan 10 18:34 : client: [222] opened from 127.0.0.1:58498
+Jan 10 18:34 : client: [222] closed
+Jan 10 18:34 : client: [223] opened from 127.0.0.1:58500
+Jan 10 18:34 : client: [223] closed
+Jan 10 18:34 : client: [224] opened from 127.0.0.1:58502
+Jan 10 18:34 : client: [224] closed
+Jan 10 18:34 : client: [225] opened from 127.0.0.1:58504
+Jan 10 18:34 : client: [225] closed
+Jan 10 18:34 : client: [226] opened from 127.0.0.1:58506
+Jan 10 18:34 : client: [226] closed
+Jan 10 18:34 : client: [227] opened from 127.0.0.1:58508
+Jan 10 18:34 : client: [227] closed
+Jan 10 18:34 : client: [228] opened from 127.0.0.1:58510
+Jan 10 18:34 : client: [228] closed
+Jan 10 18:34 : client: [229] opened from 127.0.0.1:58512
+Jan 10 18:34 : client: [229] closed
+Jan 10 18:34 : client: [230] opened from 127.0.0.1:58514
+Jan 10 18:34 : client: [230] closed
+Jan 10 18:34 : client: [231] opened from 127.0.0.1:58516
+Jan 10 18:34 : client: [231] closed
+Jan 10 18:34 : client: [232] opened from 127.0.0.1:58518
+Jan 10 18:34 : client: [232] closed
+Jan 10 18:34 : client: [233] opened from 127.0.0.1:58520
+Jan 10 18:34 : client: [233] closed
+Jan 10 18:34 : client: [234] opened from 127.0.0.1:58522
+Jan 10 18:34 : client: [234] closed
+Jan 10 18:34 : client: [235] opened from 127.0.0.1:58524
+Jan 10 18:34 : client: [235] closed
+Jan 10 18:34 : client: [236] opened from 127.0.0.1:58526
+Jan 10 18:34 : client: [236] closed
+Jan 10 18:34 : client: [237] opened from 127.0.0.1:58528
+Jan 10 18:34 : client: [237] closed
+Jan 10 18:34 : client: [238] opened from 127.0.0.1:58530
+Jan 10 18:34 : client: [238] closed
+Jan 10 18:34 : client: [239] opened from 127.0.0.1:58532
+Jan 10 18:34 : client: [239] closed
+Jan 10 18:34 : client: [240] opened from 127.0.0.1:58534
+Jan 10 18:34 : client: [240] closed
+Jan 10 18:34 : client: [241] opened from 127.0.0.1:58536
+Jan 10 18:34 : client: [242] opened from 127.0.0.1:58538
+Jan 10 18:34 : client: [241] closed
+Jan 10 18:34 : client: [242] closed
+Jan 10 18:34 : client: [243] opened from 127.0.0.1:58540
+Jan 10 18:34 : client: [243] closed
+Jan 10 18:34 : client: [244] opened from 127.0.0.1:58542
+Jan 10 18:34 : client: [244] closed
+Jan 10 18:34 : client: [245] opened from 127.0.0.1:58544
+Jan 10 18:34 : client: [245] closed
+Jan 10 18:34 : client: [246] opened from 127.0.0.1:58546
+Jan 10 18:34 : client: [246] closed
+Jan 10 18:34 : client: [247] opened from 127.0.0.1:58548
+Jan 10 18:34 : client: [248] opened from 127.0.0.1:58550
+Jan 10 18:34 : client: [248] closed
+Jan 10 18:34 : client: [247] closed
+Jan 10 18:34 : client: [249] opened from 127.0.0.1:58552
+Jan 10 18:34 : client: [250] opened from 127.0.0.1:58554
+Jan 10 18:34 : client: [249] closed
+Jan 10 18:34 : client: [250] closed
+Jan 10 18:34 : client: [251] opened from 127.0.0.1:58556
+Jan 10 18:34 : client: [251] closed
+Jan 10 18:34 : client: [252] opened from 127.0.0.1:58558
+Jan 10 18:34 : client: [253] opened from 127.0.0.1:58560
+Jan 10 18:34 : client: [252] closed
+Jan 10 18:34 : client: [253] closed
+Jan 10 18:34 : client: [254] opened from 127.0.0.1:58562
+Jan 10 18:34 : client: [255] opened from 127.0.0.1:58564
+Jan 10 18:34 : client: [254] closed
+Jan 10 18:34 : client: [255] closed
+Jan 10 18:34 : client: [256] opened from 127.0.0.1:58566
+Jan 10 18:34 : client: [257] opened from 127.0.0.1:58568
+Jan 10 18:34 : client: [257] closed
+Jan 10 18:34 : client: [256] closed
+Jan 10 18:34 : client: [258] opened from 127.0.0.1:58570
+Jan 10 18:34 : client: [258] closed
+Jan 10 18:34 : client: [259] opened from 127.0.0.1:58572
+Jan 10 18:34 : client: [259] closed
+Jan 10 18:34 : client: [260] opened from 127.0.0.1:58574
+Jan 10 18:34 : client: [260] closed
+Jan 10 18:34 : client: [261] opened from 127.0.0.1:58576
+Jan 10 18:34 : client: [261] closed
+Jan 10 18:34 : client: [262] opened from 127.0.0.1:58578
+Jan 10 18:34 : client: [262] closed
+Jan 10 18:34 : client: [263] opened from 127.0.0.1:58580
+Jan 10 18:34 : client: [263] closed
+Jan 10 18:34 : client: [264] opened from 127.0.0.1:58582
+Jan 10 18:34 : client: [264] closed
+Jan 10 18:34 : client: [265] opened from 127.0.0.1:58584
+Jan 10 18:34 : client: [265] closed
+Jan 10 18:34 : client: [266] opened from 127.0.0.1:58586
+Jan 10 18:34 : client: [266] closed
+Jan 10 18:34 : client: [267] opened from 127.0.0.1:58588
+Jan 10 18:34 : client: [267] closed
+Jan 10 18:34 : client: [268] opened from 127.0.0.1:58590
+Jan 10 18:34 : client: [268] closed
+Jan 10 18:34 : client: [269] opened from 127.0.0.1:58592
+Jan 10 18:34 : client: [269] closed
+Jan 10 18:34 : client: [270] opened from 127.0.0.1:58594
+Jan 10 18:34 : client: [270] closed
+Jan 10 18:35 : client: [271] opened from 127.0.0.1:58596
+Jan 10 18:35 : client: [271] closed
+Jan 10 18:35 : client: [272] opened from 127.0.0.1:58598
+Jan 10 18:35 : client: [272] closed
+Jan 10 18:35 : client: [273] opened from 127.0.0.1:58600
+Jan 10 18:35 : client: [273] closed
+Jan 10 18:35 : client: [274] opened from 127.0.0.1:58602
+Jan 10 18:35 : client: [274] closed
+Jan 10 18:35 : client: [275] opened from 127.0.0.1:58604
+Jan 10 18:35 : client: [275] closed
+Jan 10 18:35 : client: [276] opened from 127.0.0.1:58606
+Jan 10 18:35 : client: [276] closed
+Jan 10 18:35 : client: [277] opened from 127.0.0.1:58608
+Jan 10 18:35 : client: [277] closed
+Jan 10 18:35 : client: [278] opened from 127.0.0.1:58610
+Jan 10 18:35 : client: [278] closed
+Jan 10 18:35 : client: [279] opened from 127.0.0.1:58612
+Jan 10 18:35 : client: [279] closed
+Jan 10 18:35 : client: [280] opened from 127.0.0.1:58614
+Jan 10 18:35 : client: [280] closed
+Jan 10 18:35 : client: [281] opened from 127.0.0.1:58616
+Jan 10 18:35 : client: [281] closed
+Jan 10 18:35 : client: [282] opened from 127.0.0.1:58618
+Jan 10 18:35 : client: [282] closed
+Jan 10 18:35 : client: [283] opened from 127.0.0.1:58620
+Jan 10 18:35 : client: [283] closed
+Jan 10 18:35 : client: [284] opened from 127.0.0.1:58622
+Jan 10 18:35 : client: [284] closed
+Jan 10 18:35 : client: [285] opened from 127.0.0.1:58624
+Jan 10 18:35 : client: [285] closed
+Jan 10 18:35 : client: [286] opened from 127.0.0.1:58626
+Jan 10 18:35 : client: [286] closed
+Jan 10 18:35 : client: [287] opened from 127.0.0.1:58628
+Jan 10 18:35 : client: [287] closed
+Jan 10 18:35 : client: [288] opened from 127.0.0.1:58630
+Jan 10 18:35 : client: [288] closed
+Jan 10 18:35 : client: [289] opened from 127.0.0.1:58632
+Jan 10 18:35 : client: [289] closed
+Jan 10 18:35 : client: [290] opened from 127.0.0.1:58634
+Jan 10 18:35 : client: [290] closed
+Jan 10 18:35 : client: [291] opened from 127.0.0.1:58636
+Jan 10 18:35 : client: [291] closed
+Jan 10 18:35 : client: [292] opened from 127.0.0.1:58638
+Jan 10 18:35 : client: [292] closed
+Jan 10 18:35 : client: [293] opened from 127.0.0.1:58640
+Jan 10 18:43 : client: [293] closed
+Jan 10 18:43 : client: [294] opened from 127.0.0.1:58922
+Jan 10 18:43 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 10 18:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 10 18:53 : client: [0] opened from 127.0.0.1:52926
+Jan 10 18:55 : client: [1] opened from 127.0.0.1:52932
+Jan 10 18:56 : client: [1] closed
+Jan 10 18:56 : client: [2] opened from 127.0.0.1:52934
+Jan 10 18:56 : client: [2] closed
+Jan 10 18:58 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 10 19:01 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 10 19:05 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 10 19:08 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 10 19:12 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 10 19:15 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 10 19:19 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 10 19:22 : client: [3] opened from 127.0.0.1:54478
+Jan 10 19:22 : client: [3] closed
+Jan 10 19:37 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 11 09:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 11 09:28 : client: [0] opened from 127.0.0.1:59880
+Jan 11 09:28 : client: [1] opened from 127.0.0.1:59882
+Jan 11 09:28 : client: [1] closed
+Jan 11 09:28 : client: [2] opened from 127.0.0.1:59884
+Jan 11 09:28 : client: [2] closed
+Jan 11 10:06 : client: [3] opened from 127.0.0.1:38616
+Jan 11 10:06 : client: [3] closed
+Jan 11 10:38 : client: [4] opened from 127.0.0.1:43206
+Jan 11 10:38 : client: [4] closed
+Jan 11 12:34 : client: [0] closed
+Jan 11 12:35 : client: [5] opened from 127.0.0.1:35152
+Jan 11 12:35 : client: [5] closed
+Jan 11 12:35 : client: [6] opened from 127.0.0.1:35160
+Jan 11 12:39 : client: [6] closed
+Jan 11 12:40 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 11 12:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 11 12:41 : client: [0] opened from 127.0.0.1:38004
+Jan 11 12:59 : client: [1] opened from 127.0.0.1:42670
+Jan 11 12:59 : client: [1] closed
+Jan 11 12:59 : client: [2] opened from 127.0.0.1:42722
+Jan 11 12:59 : client: [2] closed
+Jan 11 14:44 : client: [3] opened from 127.0.0.1:39350
+Jan 11 14:44 : client: [3] closed
+Jan 11 14:44 : client: [4] opened from 127.0.0.1:39352
+Jan 11 14:44 : client: [4] closed
+Jan 11 15:14 : client: [5] opened from 127.0.0.1:44010
+Jan 11 15:15 : client: [5] closed
+Jan 11 15:18 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 11 15:20 : client: [6] opened from 127.0.0.1:44674
+Jan 11 15:24 : player: played "01 - Day By Day.flac"
+Jan 11 15:25 : client: [7] opened from 127.0.0.1:45166
+Jan 11 15:25 : client: [7] closed
+Jan 11 15:28 : client: [6] closed
+Jan 11 15:29 : player: played "MrTaxi.ape"
+Jan 11 15:33 : player: played "MrTaxi.ape"
+Jan 11 15:36 : player: played "MrTaxi.ape"
+Jan 11 15:40 : player: played "MrTaxi.ape"
+Jan 11 15:43 : player: played "MrTaxi.ape"
+Jan 11 15:47 : player: played "MrTaxi.ape"
+Jan 11 15:50 : player: played "MrTaxi.ape"
+Jan 11 15:54 : player: played "MrTaxi.ape"
+Jan 11 15:57 : client: [8] opened from 127.0.0.1:48866
+Jan 11 15:57 : client: [8] closed
+Jan 11 18:00 : client: [9] opened from 127.0.0.1:51332
+Jan 11 18:00 : client: [9] closed
+Jan 11 18:01 : client: [10] opened from 127.0.0.1:51334
+Jan 11 18:01 : client: [10] closed
+Jan 11 21:02 : player: played "MrTaxi.ape"
+Jan 12 08:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 12 08:37 : client: [0] opened from 127.0.0.1:50520
+Jan 12 08:43 : client: [1] opened from 127.0.0.1:50530
+Jan 12 08:43 : client: [1] closed
+Jan 12 08:43 : client: [2] opened from 127.0.0.1:50532
+Jan 12 08:43 : client: [2] closed
+Jan 12 09:43 : client: [0] closed
+Jan 12 09:43 : player: played "MrTaxi.ape"
+Jan 12 09:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 12 09:44 : client: [0] opened from 127.0.0.1:42408
+Jan 12 12:26 : client: [1] opened from 127.0.0.1:43910
+Jan 12 12:26 : client: [1] closed
+Jan 12 12:26 : player: played "MrTaxi.ape"
+Jan 12 12:27 : client: [2] opened from 127.0.0.1:43918
+Jan 12 12:27 : client: [2] closed
+Jan 12 12:27 : client: [3] opened from 127.0.0.1:43922
+Jan 12 12:27 : client: [3] closed
+Jan 12 12:27 : client: [4] opened from 127.0.0.1:43924
+Jan 12 12:27 : client: [4] closed
+Jan 12 12:27 : client: [5] opened from 127.0.0.1:43928
+Jan 12 12:27 : client: [5] closed
+Jan 12 12:27 : client: [6] opened from 127.0.0.1:43946
+Jan 12 12:27 : client: [6] closed
+Jan 12 12:29 : client: [7] opened from 127.0.0.1:44386
+Jan 12 12:29 : client: [7] closed
+Jan 12 12:59 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 12 13:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 12 13:06 : client: [0] opened from 127.0.0.1:47358
+Jan 12 13:09 : client: [1] opened from 127.0.0.1:47360
+Jan 12 13:10 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 12 13:13 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 12 13:17 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 12 13:20 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 12 13:24 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 12 13:29 : player: played "02. 마리오네트 (Marionette).flac"
+Jan 12 13:34 : client: [1] closed

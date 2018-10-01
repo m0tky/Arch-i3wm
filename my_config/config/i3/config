@@ -1,0 +1,321 @@
+
+# mod key
+set $mod Mod4
+
+# 字体
+font pango: monaco yahei,  fontAwesome 11
+
+# resolv i3 transparancy bug
+#new_window pixel
+
+# 打开终端
+bindsym $mod+Return exec xfce4-terminal
+
+# start drofi dmenu
+bindsym $mod+Tab exec --no-startup-id rofi -show window
+bindsym $mod+Shift+d exec --no-startup-id rofi -show run
+bindsym $mod+d exec --no-startup-id rofi -show drun
+
+
+####启动ranger文件管理器
+bindsym $mod+x exec xfce4-terminal -x sh -c 'ranger'
+
+####root权限启动ranger
+bindsym $mod+Shift+x exec xfce4-terminal -x sh -c 'sudo ranger'
+
+####ncmpcpp音乐播放器
+bindsym $mod+n  exec xfce4-terminal -x sh -c 'ncmpcpp'
+#############################################################################################################################
+
+# Use Mouse+$mod to drag floating windows to their wanted position
+floating_modifier $mod
+
+# 杀死当前窗口
+bindsym $mod+Shift+a kill
+####
+#
+#透明
+exec compton -b
+#壁纸
+exec_always --no-startup-id feh --bg-scale ~/.config/i3/twice.jpg
+# change focus
+bindsym $mod+j focus left
+bindsym $mod+k focus down
+bindsym $mod+l focus up
+bindsym $mod+m focus right
+ 
+#方向键
+bindsym $mod+Left focus left
+bindsym $mod+Down focus down
+bindsym $mod+Up focus up
+bindsym $mod+Right focus right
+
+# move focused window
+bindsym $mod+Shift+j move left
+bindsym $mod+Shift+k move down
+bindsym $mod+Shift+l move up
+bindsym $mod+Shift+m move right
+
+# alternatively, you can use the cursor keys:
+bindsym $mod+Shift+Left move left
+bindsym $mod+Shift+Down move down
+bindsym $mod+Shift+Up move up
+bindsym $mod+Shift+Right move right
+
+# split in horizontal orientation
+bindsym $mod+h split h
+
+# split in vertical orientation
+bindsym $mod+v split v
+
+# 全屏
+bindsym $mod+f fullscreen toggle
+
+# change container layout (stacked, tabbed, toggle split)
+#bindsym $mod+s layout stacking
+#bindsym $mod+z layout tabbed
+bindsym $mod+e layout toggle split
+
+# toggle tiling / floating 浮动
+bindsym $mod+Shift+space floating toggle
+
+# change focus between tiling / floating windows
+bindsym $mod+space focus mode_toggle
+
+# focus the parent container
+bindsym $mod+q focus parent
+
+# focus the child container
+#bindsym $mod+d focus child
+
+#scratchpad
+#bindsym $mod+twosuperior scratchpad show
+#bindsym $mod+Shift+twosuperior move scratchpad
+
+#Swith with same key to precedent workspace
+#workspace_auto_back_and_forth yes
+
+#############################################################################################################################
+
+#colors
+# class                 border  backgr. text    indicator child_border
+client.focused          #bd93f9 #FFFFFF #000000 #000000   #000000
+client.focused_inactive #333333 #5f676a #ffffff #484e50   #000000
+client.unfocused        #333333 #222222 #888888 #292d2e   #222222
+client.urgent           #2f343a #900000 #ffffff #900000   #900000
+client.placeholder      #000000 #0c0c0c #ffffff #000000   #0c0c0c
+
+#i3-gaps
+hide_edge_borders both
+for_window [class="^.*"] border pixel 0
+gaps inner 6
+gaps outer 6
+
+
+bindsym $mod+s          gaps inner current plus 5
+bindsym $mod+Shift+s    gaps inner current minus 5
+
+bindsym $mod+t          split toggle
+bindsym $mod+Shift+t    gaps inner all set 8; gaps outer all set 8
+
+
+
+bindsym $mod+z          gaps outer current plus 5
+bindsym $mod+Shift+z    gaps outer current minus 5
+
+
+
+#############################################################################################################################
+
+#rofi电源控制
+bindsym $mod+Shift+q exec ~/.config/i3/rofi_powermenu.sh
+
+#rofi_custom menu
+#bindsym $mod+x exec ~/config/i3/rofi_custom.sh
+
+
+# floatings
+for_window [class="gimp"] floating able
+#for_window [window_role="gimp-dock"] floating disable; move left
+for_window [window_role="gimp-dock"] floating disable; move left; resize shrink width 30 px or 30ppt
+#for_window [window_role="gimp-toolbox"] floating disable; move center
+for_window [window_role="gimp-toolbox"] floating disable; move center; resize grow width 100 px or 100ppt
+#for_window [class="Cssh"] floating enable, border normal
+#for_window [class="XTerm"] floating enable, border normal
+#for_window [class="feh"] floating enable, border normal
+
+# assigns focus
+#assign [class="Thunderbird"] $tag3
+
+#assign [class="Lollypop"] $tag5
+#for_window [class="Lollypop"] focus
+
+#assign [class="Code"] $tag6
+#for_window [class="Code"] focus
+
+#assign [class="WebTorrent"] $tag7
+#for_window [class="WebTorrent"] focus
+
+#assign [class="Nicotine"] $tag9
+#for_window [class="Nicotine"] focus
+
+#assign [class="Connman-gtk"] $tag10
+#for_window [class="Connman-gtk"] focus
+
+#toggle workspace's display screen
+bindsym $mod+less move workspace to output right
+bindsym $mod+Shift+less move workspace to output up
+
+#assign workspace to screens
+######################################################################################
+#显示器LVDS-1请改成polybar -m的结果##########################################################
+
+workspace $ws1 output LVDS1
+workspace $ws2 output LVDS1
+workspace $ws3 output LVDS1
+workspace $ws4 output LVDS1
+workspace $ws5 output LVDS1
+workspace $ws6 output LVDS1
+workspace $ws7 output LVDS1
+workspace $ws8 output LVDS1
+workspace $ws9 output LVDS1
+workspace $ws10 output LVDS1
+
+###################################################################################
+
+
+
+bindsym $mod+Shift+c reload
+# restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
+
+#bindsym $mod+Shift+r ranger
+
+# exit i3 (logs you out of your X session)
+#
+#bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'"
+
+# resize window (you can also use the mouse for that)
+mode "resize" {
+        bindsym j resize shrink width 5 px or 5 ppt
+        bindsym k resize grow height 5 px or 5 ppt
+        bindsym l resize shrink height 5 px or 5 ppt
+        bindsym m resize grow width 5 px or 5 ppt
+
+        bindsym Left resize shrink width 2 px or 2 ppt
+        bindsym Down resize grow height 2 px or 2 ppt
+        bindsym Up resize shrink height 2 px or 2 ppt
+        bindsym Right resize grow width 2 px or 2 ppt
+
+        # back to normal: Enter or Escape
+        bindsym Return mode "default"
+        bindsym Escape mode "default"
+}
+
+bindsym $mod+r mode "resize"
+
+bindsym $mod+w layout tabbed
+#########工作区图标设置#########################3
+set $ws1 "1: "
+set $ws2 "2: "
+set $ws3 "3: "
+set $ws4 "4: " 
+set $ws5 "5: "
+set $ws6 "6: "
+set $ws7 "7: "
+set $ws8 "8: "
+set $ws9 "9: "
+set $ws10 "10:"
+
+bindsym $mod+1          workspace $ws1
+bindsym $mod+2          workspace $ws2
+bindsym $mod+3          workspace $ws3
+bindsym $mod+4          workspace $ws4
+bindsym $mod+5          workspace $ws5
+bindsym $mod+6          workspace $ws6
+bindsym $mod+7          workspace $ws7
+bindsym $mod+8          workspace $ws8
+bindsym $mod+9          workspace $ws9
+bindsym $mod+0          workspace $ws10
+
+# move focused container to workspace
+#移动当前容器到工作区
+bindsym $mod+Shift+1    move container to workspace $ws1
+bindsym $mod+Shift+2    move container to workspace $ws2
+bindsym $mod+Shift+3    move container to workspace $ws3
+bindsym $mod+Shift+4    move container to workspace $ws4
+bindsym $mod+Shift+5    move container to workspace $ws5
+bindsym $mod+Shift+6    move container to workspace $ws6
+bindsym $mod+Shift+7    move container to workspace $ws7
+bindsym $mod+Shift+8    move container to workspace $ws8
+bindsym $mod+Shift+9    move container to workspace $ws9
+bindsym $mod+Shift+0    move container to workspace $ws10
+
+#开机启动ibus/fcitx输入法
+exec  --no-startup-id  fcitx 
+exec_always --no-startup-id ~/.config/polybar/launch.sh
+#开机启动mpd音乐模块
+exec  --no-startup-id    mpd
+#deepin截图
+#bindsym $mod+Shift+p  exec --no-startup-id deepin-screenshot
+#启动火狐浏览器
+#bindsym $mod+Shift+f  exec --no-startup-id  firefox
+ 
+
+##############bumblebee bar 设置################################
+   
+#bar {
+#               height 25
+#              # i3bar_command i3bar -t
+#          font pango:monaco yahei  10
+#        status_command  /home/shire/.config/i3/bumblebee-status/bumblebee-status -m  mpd  cpu memory   -t gruvbox-powerline
+#      position  bottom
+#           separator_symbol "|"
+#      colors {
+#        statusline #76c2d6
+#       background #191919
+#      #background #282a36
+#
+#        # Type                     border     background    text
+#       focused_workspace         #0088cc88      #191919ff   #bf3f34
+#        active_workspace          #191919      #191919    #696f89
+#       inactive_workspace        #191919      #191919dd    #696f89
+#        urgent_workspace          #191919      #191919    #c7a551
+#    }
+#      }
+
+#
+####调节亮度
+
+#亮度+2
+bindsym $mod+Ctrl+Up  exec   light -A 2 
+#亮度-2
+bindsym $mod+Ctrl+Down exec  light -U 2
+
+########调节声音
+#
+#bindsym $mod+Ctrl+Right exec "amixer -q sset Master,0 1+ unmute"
+#bindsym $mod+Ctrl+Left  exec "amixer -q sset Master,0 1- unmute" 
+
+#音量+2
+bindsym $mod+Ctrl+Right exec  "pulsemixer --change-volume  +2"
+#音量-2
+bindsym $mod+Ctrl+Left exec  "pulsemixer --change-volume  -2"
+
+###音乐控制
+######################
+
+#上一首
+bindsym Ctrl+Up  exec mpc prev
+#下一首
+bindsym Ctrl+Down  exec mpc next
+#前进5秒
+bindsym Ctrl+Right  exec mpc seek +5
+#后退5秒
+bindsym Ctrl+Left exec mpc seek -5
+#暂停
+bindsym Ctrl+End  exec mpc pause
+#播放
+bindsym Ctrl+Home   exec mpc toggle
+
+#锁屏
+bindsym  $mod+p exec lock
